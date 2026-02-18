@@ -21,5 +21,9 @@ public class array{
 		}
 
 		System.out.println("The sum is: " + sum);
+
+		// --- multidimensional array
+		int[][] myNumbers = { {1, 4, 2}, {3, 6, 8} };
+		System.out.println(myNumbers[1][2]); // Outputs 8
 	}
 }
