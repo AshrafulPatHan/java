@@ -8,7 +8,7 @@ public class if_else{
 		  	System.out.println("20 is greater than 18");
 		}
 
-		// method 2
+		// method 2 
 		if (isRaining){
 			System.out.println("Bring an Umbrealla");
 		} else {
@@ -22,11 +22,11 @@ public class if_else{
 		  System.out.println("Bring an umbrella.");
 		} else if (weather == 2) {
 		  System.out.println("Wear sunglasses.");
-		} else {
+		} else {	
 		  System.out.println("Just go outside normally.");
 		}
 
-		// method 4
+		// method 4 
 		int time = 20;
 		String result = (time < 18) ? "Good day." : "Good evening.";
 		System.out.println(result);

@@ -27,3 +27,4 @@ public class array{
 		System.out.println(myNumbers[1][2]); // Outputs 8
 	}
 }
+	

@@ -28,7 +28,7 @@ public class math{
 		System.out.println(z); // 5
 
 		/*
-			=	x = 5	x = 5	
+			=	x = 5	x = 5	    
 			+=	x += 3	x = x + 3	
 			-=	x -= 3	x = x - 3	
 			*=	x *= 3	x = x * 3	
@@ -38,7 +38,7 @@ public class math{
 			|=	x |= 3	x = x | 3	
 			^=	x ^= 3	x = x ^ 3	
 			>>=	x >>= 3	x = x >> 3	
-			<<=	x <<= 3	x = x << 3
+			<<=	x <<= 3	x = x << 3  
 		*/
 		int savings = 100; 
 		savings += 50; // add 50 to savings
